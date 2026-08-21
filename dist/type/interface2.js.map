@@ -1,0 +1,1 @@
+{"version":3,"file":"interface2.js","sourceRoot":"","sources":["../../src/type/interface2.ts"],"names":[],"mappings":";;AAkBA,MAAM,OAAO,GAAU;IACnB,IAAI,EAAE,UAAU;IAChB,IAAI,EAAE,OAAO;IACb,KAAK,EAAE,gBAAgB;IACvB,WAAW,EAAE,CAAC,cAAc,EAAE,cAAc,EAAE,cAAc,CAAC;CAChE,CAAA;AAgBD,MAAM,QAAQ,GAAS;IACnB,IAAI,EAAE,OAAO;IACb,KAAK,EAAE,GAAG;CACb,CAAA"}
